@@ -1,17 +1,8 @@
-## Hi, my name is Julio Daniel
-<div>
-  <a href="https://github.com/JulioDaniel30">Julio Daniel</a>
-</div>
-<div>
-  - 👋 Hi, I’m @JulioDaniel30
-  - 👀 I’m interested in Ja
-  - 🌱 I’m currently learning ...
-  - 💞️ I’m looking to collaborate on ...
-  - 📫 How to reach me ...
+## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioDaniel30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDaniel30&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
 
-<!---
-JulioDaniel30/JulioDaniel30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
